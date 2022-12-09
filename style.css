@@ -1,0 +1,41 @@
+html {
+    background-color: aqua;
+}
+
+body {
+    color: #00008B;
+    font: 90% Roboto;
+    background-color: blanchedalmond;
+}
+
+.color {
+    color: red;
+}
+
+img {
+width: 220px;
+height: 205px;
+margin: 30px;
+}
+
+.redturt {
+width: 300px;
+height: 205px;
+margin: 30px;
+}
+
+.main_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+
+    h1 {
+        color: #800000;
+        margin: auto;
+    }
+
+    h2 {
+        color: #FF00FF;
+    }
